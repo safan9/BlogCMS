@@ -7,10 +7,11 @@ I have used Laravel Jetstream and its authentication.
 
 ### To run this project locally follow below steps
 1. Clone this repo/project
-2. composer install
-3. npm install && npm run dev
-4. Add database credentials in .env file
-5. Run server using php artisan serve
+2. <code>composer install</code>
+3. <code>npm install && npm run dev</code>
+4. Copy <code>.env.example</code> paste it into <code>.env</code>
+5. Add database credentials in <code>.env</code> file
+6. Run server using <code>php artisan serve</code>
 
 
 ## TinyMCE WYSIWYG Editor
