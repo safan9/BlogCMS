@@ -20,6 +20,7 @@ So in order to use it you have to add TinyMCE cdn in blog/create.blade.php and a
 
 ## Since this project is not hosted on live server,
 ## Here are some Screenshots
+#### The ADMIN/CRUD link on Header in project is for admin login page.
 
 ### Home Page
 ![](Screenshots/Home.png)
