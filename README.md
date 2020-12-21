@@ -16,3 +16,22 @@ I have used Laravel Jetstream and its authentication.
 ## TinyMCE WYSIWYG Editor
 I have used TinyMCE for writing blogs with all formatting.
 So in order to use it you have to add TinyMCE cdn in blog/create.blade.php and also in blog/edit.blade.php in resources.
+
+
+## Since this project is not hosted on live server,
+## Here are some Screenshots
+
+### Home Page
+![](Screenshots/Home.png)
+
+### Top Blogs on Home Page
+![](Screenshots/Top-Blogs.png)
+
+### Blogs Page
+![](Screenshots/Blog-List.png)
+
+### Detailed Blog View-1
+![](Screenshots/Blog-details-1.png)
+
+### Detailed Blog View-2
+![](Screenshots/Blog-Details-2.png)
