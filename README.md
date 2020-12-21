@@ -22,6 +22,7 @@ So in order to use it you have to add TinyMCE cdn in blog/create.blade.php and a
 ## Here are some Screenshots
 #### The ADMIN/CRUD link on Header in project is for admin login page.
 
+## User Side/Frontend
 ### Home Page
 ![](Screenshots/Home.png)
 
@@ -36,3 +37,30 @@ So in order to use it you have to add TinyMCE cdn in blog/create.blade.php and a
 
 ### Detailed Blog View-2
 ![](Screenshots/Blog-Details-2.png)
+
+## Admin/Back-End
+
+### Admin Login
+![](Screenshots/admin-login.png)
+
+### Admin Dashboard/Blog List
+![](Screenshots/admin-blog-list.png)
+
+### Admin Add Blog (WYSIWYG Editor)
+![](Screenshots/admin-add-blog.png)
+
+### Admin Edit Blog (WYSIWYG Editor)
+![](Screenshots/admin-edit-blog.png)
+
+### Admin View Blog
+![](Screenshots/admin-view-blog.png)
+
+### Admin Profile
+![](Screenshots/admin-profile.png)
+
+### Admin Logout
+![](Screenshots/admin-logout.png)
+
+
+
+
